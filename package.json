@@ -1,0 +1,11 @@
+{
+  "name": "pp-prettier",
+  "version": "1.0.0",
+  "description": "Prettier configuration file",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
